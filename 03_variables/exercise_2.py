@@ -7,6 +7,7 @@
 # print(welcome(name))
 
 def welcome(name):
+    """Print greeting for someone with the name 'name'."""
     print(f'Hello {name}')
 
 
